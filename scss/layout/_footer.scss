@@ -1,0 +1,26 @@
+.footer {
+    background-color: rgb(233, 229, 225);
+    padding: 40px 0;
+  }
+
+.footer-col {
+    width: 15%;
+    padding: 0 15%;
+  
+    h5 {
+      font-size: 18px;
+      color: #1b1b1b;
+      margin-bottom: 35px;
+      font-weight: 500;
+      position: relative;
+      font-family: 'Roboto', sans-serif;
+    }
+  
+    ul li a {
+      font-size: 16px;
+      text-decoration: none;
+      color: #1b1b1b;
+      font-weight: 300;
+      display: block;
+    }
+  }
